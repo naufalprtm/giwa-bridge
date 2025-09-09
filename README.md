@@ -31,7 +31,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/giwa-bridge.git
+git clone https://github.com/naufalprtm/giwa-bridge.git
 cd giwa-bridge
 ```
 
